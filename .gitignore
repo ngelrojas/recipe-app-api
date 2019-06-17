@@ -1,1 +1,5 @@
 .idea/workspace.xml
+.idea/inspectionProfiles/Project_Default.xml
+app/app/__pycache__/
+app/core/migrations
+app/core/tests/__pycache__/
