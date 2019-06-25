@@ -3,4 +3,4 @@
 app/app/__pycache__/
 app/core/migrations
 app/core/tests/__pycache__/
-app/*/__pycache__/
+app/*/*/__pycache__/
