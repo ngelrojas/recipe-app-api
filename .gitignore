@@ -5,4 +5,5 @@ app/core/migrations
 app/core/tests/__pycache__/
 app/*/*/__pycache__/
 app/*/__pycache__/
+app/user/__pycache__/
 venv
