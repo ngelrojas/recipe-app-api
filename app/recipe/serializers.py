@@ -31,7 +31,6 @@ class RecipeSerializer(serializers.ModelSerializer):
         queryset=Tag.objects.all()
     )
 
-
     class Meta:
         model = Recipe
         fields = ('id', 'title', 'time_minute', 'price', 'link', 'ingredients', 'tags')
